@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(255, 246, 246);
+}
+
+.content-section {
+  padding: 64px 16px;
+}
+
+.mainh2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.underline {
+  width: 65px;
+  border-bottom: orange 2px solid;
+  margin-left: 900px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  transform: translateX(-31%);
+}
+
+.phone {
+  width: 45%;
+  text-align: right;
+  float: left;
+}
+
+.work {
+  float: left;
+  width: 45%;
+  margin-left: 90px;
+}
+
+.mainh3 {
+  text-align: right;
+}
+
+.work-1 {
+  margin-top: 30px;
+  padding-bottom: 80px;
+  padding-right: 250px;
+}
+
+.star {
+  width: 10%;
+  float: left;
+  font-size: 32px;
+  color: rgb(255, 183, 50);
+}
+
+.step {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 90%;
+  float: left;
+}
+
+.comment-form {
+  width: 50%;
+  float: right;
+}
+
+.form-field {
+  width: 50%;
+  float: left;
+}
+
+.label-form {
+  line-height: 36px;
+  margin-bottom: 8px;
+}
+
+.input-form {
+  height: 32px;
+  width: 100%;
+  margin-bottom: 8px;
+  border-radius: 5px;
+}
+
+.textarea-form {
+  height: 80px;
+  width: 100%;
+  margin: 8px 0;
+  border-radius: 5px;
+}
+
+.button-form {
+  height: 32px;
+  width: 100px;
+  border-radius: 20px;
+  margin: 8px 0;
+  border: none;
+  background-color: orange;
+  color: white;
+}
+
+.comment {
+  width: 100%;
+  float: right; 
+}
